@@ -1,5 +1,5 @@
-julia -e "Pkg.clone(\"https://github.com/djsegal/Fussy.jl.git\")"
 julia -e "Pkg.clone(\"https://github.com/slundberg/PmapProgressMeter.jl.git\")"
+julia -e "Pkg.clone(\"https://github.com/djsegal/Fussy.jl.git\")"
 julia -e "using Fussy"
 julia -e "using Plots"
 julia -e "using Interact"
