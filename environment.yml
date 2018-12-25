@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - matplotlib
   - appmode
   - pip
   - pip:
